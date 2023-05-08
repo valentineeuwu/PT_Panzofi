@@ -1,0 +1,6 @@
+[submodule "PTecnicaBackDjango"]
+	path = PTecnicaBackDjango
+	url = https://github.com/valentineeuwu/PTecnicaBackDjango.git
+[submodule "PruebaT-cnicaPanzofi"]
+	path = PruebaT-cnicaPanzofi
+	url = https://github.com/valentineeuwu/PruebaT-cnicaPanzofi.git
