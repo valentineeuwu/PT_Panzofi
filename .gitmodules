@@ -4,3 +4,9 @@
 [submodule "PruebaT-cnicaPanzofi"]
 	path = PruebaT-cnicaPanzofi
 	url = https://github.com/valentineeuwu/PruebaT-cnicaPanzofi.git
+[submodule "Back"]
+	path = Back
+	url = git@github.com:valentineeuwu/PTecnicaBackDjango.git
+[submodule "Front2"]
+	path = Front2
+	url = https://github.com/valentineeuwu/PruebaT-cnicaPanzofi.git
